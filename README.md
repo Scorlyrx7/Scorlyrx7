@@ -2,6 +2,6 @@
 - 👀 Interessado em Python
 - 🌱 Tenho 18 anos
 - 💞️ Atualmente solteiro
-- 📫 joaopaulopereirabittencourt@gmail.com - email pessoal
+- 📫 joaopaulopereirabittencourt@gmail.com
 - 😄 Apelidos: Scorly7,Scorlyrx7 
 - ⚡ Python é a melhor linguagem!
