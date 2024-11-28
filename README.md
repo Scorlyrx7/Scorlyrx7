@@ -1,0 +1,7 @@
+- 👋 Olá, sou João Paulo
+- 👀 Interessado em Python
+- 🌱 Tenho 18 anos
+- 💞️ Atualmente solteiro
+- 📫 joaopaulopereirabittencourt@gmail.com - email pessoal
+- 😄 Apelidos: Scorly7,Scorlyrx7 
+- ⚡ Python é a melhor linguagem!
